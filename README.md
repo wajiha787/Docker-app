@@ -79,6 +79,17 @@ docker build -t backend .
 
 The `docker-compose.yml` file defines the services for both the frontend and backend applications, allowing them to run together in a single command.
 
+## Screenshots
+
+Screenshots showing docker-compose running (images located in the `screenshots/` folder):
+
+![Docker Compose running 1](screenshots/docker-compose-running-1.png)
+
+![Docker Compose running 2](screenshots/docker-compose-running-2.png)
+
+(If your screenshots have different filenames, update the image paths above to match the actual filenames in the `screenshots/` folder.)
+
+
 ## License
 
 This project is licensed under the MIT License.
