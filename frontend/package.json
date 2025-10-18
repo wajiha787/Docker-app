@@ -1,0 +1,19 @@
+{
+  "name": "my-frontend-app",
+  "version": "1.0.0",
+  "description": "Frontend application for my fullstack app",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Building the frontend...'",
+    "test": "echo 'Running tests...'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
