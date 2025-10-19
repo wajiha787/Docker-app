@@ -87,7 +87,7 @@ Screenshots showing docker-compose running (images located in the `screenshots/`
 
 ![Docker Compose running 2](screenshots/image2.png)
 
-[Docker Compose running 2](screenshots/image3.png)
+![Docker Compose running 2](screenshots/image3.png)
 
 
 
